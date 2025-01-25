@@ -123,11 +123,3 @@ python ai_services/start.py
 
 ## 📬 Contact & Support
 - Email: [kcemmy03@gmail.com]
-
-## 🏆 Hiro Hackathon Submission
-
-### Category
-AI Integration in Blockchain Governance
-
-### Unique Value Proposition
-Transforming DAO governance through intelligent, data-driven decision-making processes
